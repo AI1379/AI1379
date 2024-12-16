@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a student of [Zhejiang University](https://www.zju.edu.cn). Glad to see you guys!
+I'm currently a freshman at [Zhejiang University](https://www.zju.edu.cn), majoring in macromolecules. Glad to see you guys!
 
 [![RM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI1379&count_private=true)](https://github.com/AI1379)
 
@@ -27,7 +27,7 @@ I'm currently a student of [Zhejiang University](https://www.zju.edu.cn). Glad t
 
 [![Tiny Cobalt](https://github-readme-stats.vercel.app/api/pin/?username=AI1379&repo=tiny-cobalt)](https://github.com/AI1379/tiny-cobalt)
 
-[![Tiny Cobalt](https://github-readme-stats.vercel.app/api/pin/?username=The-Cobalt-Develop-Team&repo=krypton)](https://github.com/The-Cobalt-Develop-Team/krypton)
+[![Krypton](https://github-readme-stats.vercel.app/api/pin/?username=The-Cobalt-Develop-Team&repo=krypton)](https://github.com/The-Cobalt-Develop-Team/krypton)
 
 ## 🔥 Mostly Used Languages
 
@@ -35,7 +35,7 @@ I'm currently a student of [Zhejiang University](https://www.zju.edu.cn). Glad t
 
 ## ⚡ Fun fact
 
-I'm a big fan of *Genshin Impact* and *Honkai: Star Rail*, as well as a fan of Disney's *Frozen*. And I'm glad to make friend with anyone who share common interests!
+I'm a big fan of *Genshin Impact* and *Honkai: Star Rail*, as well as Disney's *Frozen*. I'm glad to make friends with anyone who shares common interests!
 
 ## 📫 How to reach me
 

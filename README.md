@@ -29,6 +29,14 @@ I'm currently a freshman at [Zhejiang University](https://www.zju.edu.cn), major
 
 [![Krypton](https://github-readme-stats.vercel.app/api/pin/?username=The-Cobalt-Develop-Team&repo=krypton)](https://github.com/The-Cobalt-Develop-Team/krypton)
 
+### Future Projects
+
+There are some ideas that not have been implemented yet.
+
+[ ] HydrogenCMS - A WordPress-like CMS in C++ using ASIO
+
+[ ] A GUI iOS backup extractor.
+
 ## 🔥 Mostly Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI1379)

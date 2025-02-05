@@ -33,9 +33,9 @@ I'm currently a freshman at [Zhejiang University](https://www.zju.edu.cn), major
 
 There are some ideas that not have been implemented yet.
 
-[ ] HydrogenCMS - A WordPress-like CMS in C++ using ASIO
+- [ ] HydrogenCMS - A WordPress-like CMS in C++ using ASIO
 
-[ ] A GUI iOS backup extractor.
+- [ ] A GUI iOS backup extractor.
 
 ## 🔥 Mostly Used Languages
 

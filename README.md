@@ -29,15 +29,15 @@ I'm currently a freshman at [Zhejiang University](https://www.zju.edu.cn), major
 
 [![Krypton](https://github-readme-stats.vercel.app/api/pin/?username=The-Cobalt-Develop-Team&repo=krypton)](https://github.com/The-Cobalt-Develop-Team/krypton)
 
+[![Nahida Bot](https://github-readme-stats.vercel.app/api/pin/?username=AI1379&repo=nahida-bot)](https://github.com/AI1379/nahida-bot)
+
 ### Future Projects
 
 There are some ideas that not have been implemented yet.
 
-- [ ] ChatRocket - An LLM client inspired by ChatBox
+- [ ] PyTeXFlow - A simple LaTeX build system.
 
 - [ ] HydrogenCMS - A WordPress-like CMS in C++ using ASIO
-
-- [ ] A GUI iOS backup extractor.
 
 ## 🔥 Mostly Used Languages
 
@@ -52,7 +52,3 @@ I'm a big fan of *Genshin Impact* and *Honkai: Star Rail*, as well as Disney's *
 Personal Email: [listener1381@outlook.com](mailto:listener1381@outlook.com)
 
 Education Email: [arendellian13@zju.edu.cn](mailto:arendellian13@zju.edu.cn)
-
-WeChat: `Arendellian13`
-
-QQ: `2846390592`

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently a freshman at [Zhejiang University](https://www.zju.edu.cn), majoring in macromolecules. Glad to see you guys!
+I'm currently a sophomore at [Zhejiang University](https://www.zju.edu.cn), majoring in Information and Computational Science. Glad to see you guys!
 
 [![RM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI1379&count_private=true)](https://github.com/AI1379)
 

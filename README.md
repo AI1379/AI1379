@@ -33,9 +33,7 @@ I'm currently a sophomore at [Zhejiang University](https://www.zju.edu.cn), majo
 
 There are some ideas that not have been implemented yet.
 
-- [ ] PyTeXFlow - A simple LaTeX build system.
-
-- [ ] HydrogenCMS - A WordPress-like CMS in C++ using ASIO
+- [ ] Article Assistant - An agent that write essays AUTOMATICALLY
 
 ## 🔥 Mostly Used Languages
 

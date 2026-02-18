@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm currently a sophomore at [Zhejiang University](https://www.zju.edu.cn), majoring in Information and Computational Science. Glad to see you guys!
 
-[![RM's GitHub stats](https://github-readme-stats.vercel.app/api?username=AI1379&count_private=true)](https://github.com/AI1379)
+[![RM's GitHub stats](./profile/stats.svg)](https://github.com/AI1379)
 
 ## 🌱 Currently Learning
 
@@ -25,11 +25,9 @@ I'm currently a sophomore at [Zhejiang University](https://www.zju.edu.cn), majo
 
 ## 🔭 Currently Working on
 
-[![Tiny Cobalt](https://github-readme-stats.vercel.app/api/pin/?username=AI1379&repo=tiny-cobalt)](https://github.com/AI1379/tiny-cobalt)
+[![Nahida Bot](./profile/nahida-bot.svg)](https://github.com/AI1379/nahida-bot)
 
-[![Krypton](https://github-readme-stats.vercel.app/api/pin/?username=The-Cobalt-Develop-Team&repo=krypton)](https://github.com/The-Cobalt-Develop-Team/krypton)
-
-[![Nahida Bot](https://github-readme-stats.vercel.app/api/pin/?username=AI1379&repo=nahida-bot)](https://github.com/AI1379/nahida-bot)
+[![Philia-093](./profile/philia093.svg)](https://github.com/AI1379/philia093)
 
 ### Future Projects
 
@@ -41,7 +39,7 @@ There are some ideas that not have been implemented yet.
 
 ## 🔥 Mostly Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AI1379)
+![Top Langs](./profile/top-langs.svg)
 
 ## ⚡ Fun fact
 

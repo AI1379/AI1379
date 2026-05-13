@@ -27,13 +27,13 @@ I'm currently a sophomore at [Zhejiang University](https://www.zju.edu.cn), majo
 
 [![Nahida Bot](./profile/nahida-bot.svg)](https://github.com/AI1379/nahida-bot)
 
-[![Philia-093](./profile/philia093.svg)](https://github.com/AI1379/philia093)
+[![mihoyoTI](./profile/mihoyoti.svg)](https://github.com/AI1379/mihoyoti)
 
 ### Future Projects
 
 There are some ideas that not have been implemented yet.
 
-- [ ] Article Assistant - An agent that write essays AUTOMATICALLY
+- [ ] Project Sonata - An 2D Card battle game like *Reverse: 1999* using Unity engine.
 
 ## 🔥 Mostly Used Languages
 

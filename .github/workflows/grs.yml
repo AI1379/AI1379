@@ -41,13 +41,13 @@ jobs:
           options: username=${{ github.repository_owner }}&repo=nahida-bot
           path: profile/nahida-bot.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-      
-      - name: Generate Philia093 card
+
+      - name: Generate mihoyoTI card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=${{ github.repository_owner }}&repo=philia093
-          path: profile/philia093.svg
+          options: username=${{ github.repository_owner }}&repo=mihoyoti
+          path: profile/mihoyoti.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards

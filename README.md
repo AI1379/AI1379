@@ -43,6 +43,8 @@ There are some ideas that not have been implemented yet.
 
 I'm a big fan of *Genshin Impact* and *Honkai: Star Rail*, as well as Disney's *Frozen*. I'm glad to make friends with anyone who shares common interests!
 
+![Genshin Impact](https://hoyocard.qhy04.com/gs/detail/rand/336151799.png)
+
 ## 📫 How to reach me
 
 Personal Email: [listener1381@outlook.com](mailto:listener1381@outlook.com)

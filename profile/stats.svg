@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Renatus Madrigal&#39;s GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 50, Total Commits  (last year) : 1037, Total PRs: 12, Total Issues: 58, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 50, Total Commits  (last year) : 1033, Total PRs: 12, Total Issues: 58, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 126.78035378230202;
+        stroke-dashoffset: 126.80670326519561;
       }
     }
   
